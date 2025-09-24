@@ -63,6 +63,8 @@ Features of the dashboard:
    - ATL-specific metrics.
    - Monthly delay trends.
 3. Alternatively, view the Tableau Public link in a web browser if you do not have Tableau Desktop installed.
+[View Dashboard on Tableau Public](https://public.tableau.com/views/DeltaStory/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
 
 ## Insights from the Analysis
 - Carrier-related and late aircraft delays are the most significant contributors to overall delays.
