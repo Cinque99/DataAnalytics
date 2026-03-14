@@ -20,7 +20,6 @@ The primary goals of this project were to:
 ## Tableau Dashboard
 The interactive dashboard provides a visual summary of Delta’s 2024 flight performance. It includes overall KPIs, delay causes, airport rankings, hub versus non-hub analysis, and monthly delay trends.
 View Dashboard on Tableau Public
-(Replace with your actual Tableau link before publishing.)
 
 ## Files in this Repository
 1. DeltaStory.sql
